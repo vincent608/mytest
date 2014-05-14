@@ -11,7 +11,6 @@ Add two more comments.
 
 Add three more comments.
 
-
 Add four master more comments.
 
 Add branch comments.
